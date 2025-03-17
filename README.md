@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **PHP, Python, Scala**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jona543](https://github.com/Jona543)
-
 - 💬 Ask me about **React Native, Flutter, JavaScript**
 
 - 📫 How to reach me **jonatromp45@gmail.com**
