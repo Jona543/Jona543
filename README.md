@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jona</h1>
-<h3 align="center">A passionate full stack developer from the UK</h3>
+<h3 align="center">A passionate, results-oriented full stack developer from the UK</h3>
 
 - 🔭 I’m currently working on [GameOn](https://github.com/Kyle-Wearing/GameOn)
 
