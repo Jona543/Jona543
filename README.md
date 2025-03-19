@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GameOn](https://github.com/Kyle-Wearing/GameOn) and [GeoHub](https://github.com/Jona543/GeoHub)
 
-- 🌱 I’m currently learning **PHP, Python, Scala**
+- 🌱 I’m currently learning **TypeScript, Python, Scala**
 
 - 💬 Ask me about **React Native, Flutter, JavaScript**
 
