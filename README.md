@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Python, Scala**
 
-- 💬 Ask me about **React Native, Flutter, JavaScript**
+- 💬 Ask me about **React Native, Flutter, JavaScript, Expo**
 
 - 📫 How to reach me **jonatromp45@gmail.com**
 
